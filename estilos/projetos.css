@@ -28,3 +28,10 @@ div:hover{
     transform: translate(-5px, -5px);
     cursor: pointer;
 }
+
+img#foto2{
+    height: 400px;
+    width: 395px;
+    display: block;
+    position: relative;
+}
