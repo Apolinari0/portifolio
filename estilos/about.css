@@ -17,6 +17,12 @@ section a.about{
     text-decoration: none;
 }
 
+section>img#foto3{
+    width:400px;
+    height: 400px;
+}
+
+
 section a.about:hover{
     text-decoration: underline;
     color: white;
