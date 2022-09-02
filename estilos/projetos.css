@@ -1,0 +1,30 @@
+@charset "UFT-8";
+
+.container{
+    
+}
+
+section.container > div{
+    margin-left: 50px;
+    margin-bottom: 30px;
+    padding-top: 20px;
+    padding-bottom: 50px;
+    height: 200px;
+    width: 300px;
+    border: 1px solid rgb(0, 0, 0);
+    display: inline-block;
+    background-color: rgb(5, 5, 65);
+
+}
+
+section.container>div>h1{
+    background-color: white;
+    margin-top: 100px;
+    align-items: center;
+    display: block;
+}
+
+div:hover{
+    transform: translate(-5px, -5px);
+    cursor: pointer;
+}

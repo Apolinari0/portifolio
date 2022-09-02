@@ -1,0 +1,25 @@
+@charset "UFT-8";
+
+strong{
+    color: rgb(214, 214, 214);
+}
+
+section p{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family: 'Osvald';
+}
+
+section a.about{
+    border: none;
+    text-decoration: none;
+}
+
+section a.about:hover{
+    text-decoration: underline;
+    color: white;
+}
+
+section.texto{
+    margin-top: 0px;
+    padding-top: 30px;
+}
