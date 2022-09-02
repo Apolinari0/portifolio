@@ -1,9 +1,5 @@
 @charset "UFT-8";
 
-.container{
-    
-}
-
 section.container > div{
     margin-left: 50px;
     margin-bottom: 30px;
