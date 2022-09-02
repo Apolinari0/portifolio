@@ -59,11 +59,11 @@ header a:hover{
     color: rgb(20, 247, 228);
 }
 
-section.texto{
+section.texto {
     padding-top: 10px;
     padding-left: 10px;
     color: rgb(0, 23, 53);
-    width: 60vw;
+    width: 70vw;
 }
 section.texto h2{
     font-size: 4em;
@@ -72,6 +72,8 @@ section.texto h2{
     text-align: justify;
 }
 section.texto p{
+    padding: 0px;
+    margin: 0px;
     font-size: 1em;
     color: antiquewhite;
     text-align: justify;
