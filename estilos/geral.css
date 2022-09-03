@@ -111,13 +111,12 @@ footer{
     border-top: 0.5px solid rgb(170, 174, 228);
 }
 
-main  img{
+main>section>img{
    margin-top: 0px;
    padding: 0px;
    display: block;
-   height: 360px;
-   width: 360px;
-
+   height: 340px;
+   width: 340px;
 
 }
 
