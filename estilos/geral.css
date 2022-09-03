@@ -31,8 +31,21 @@ header>h1{
     font-size: 4em;
     padding-top: 20px;
     padding-right: 10px;
-    padding-bottom: 40px;
+    
 }
+
+header p{
+    text-align: center;
+    top: 0px;
+    color: rgb(38, 38, 83);
+    padding-top: 0px;
+    margin-top: 0px;
+    padding-bottom:40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+
 header>a:hover{
     border: 1px solid cyan;
 }
@@ -118,5 +131,10 @@ main>section>img{
    height: 340px;
    width: 340px;
 
+}
+
+h3{
+    font-size: 1.9em;
+    margin-bottom: 10px;
 }
 
