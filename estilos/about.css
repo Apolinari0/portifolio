@@ -39,11 +39,12 @@ section.linguagens>img{
 
 section.linguagens>div>p{
     display: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     background-color: rgb(4, 24, 90);
     border-radius: 10px;
     padding: 5px;
     margin-bottom: 10px;
     width: 380px;
-    height: 80px;
+    height: 90px;
 }
 
